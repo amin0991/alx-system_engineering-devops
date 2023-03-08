@@ -1,2 +1,3 @@
 #!/bin/bash
+mkdir /tmp/u
 cp [[:A-Z:]]* /tmp/u
