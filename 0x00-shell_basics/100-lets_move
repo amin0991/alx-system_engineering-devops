@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir /tmp/u
-cp [[:A-Z:]]* /tmp/u
+mv [A-Z]* /tmp/u
