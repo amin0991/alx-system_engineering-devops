@@ -1,2 +1,5 @@
 this class is for sourcetree
-1.sourcetree is free tool from atlasian company
+1.sourcetree is free tool from atlassian company
+2.How to download sourcetree
+3.How to install sourcetree
+4.How ti integrate sourcetree in github
